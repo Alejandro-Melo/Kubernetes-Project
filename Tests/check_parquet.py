@@ -15,5 +15,5 @@ SELECT
 """
 
 result_df = df.sql(query)
-print(result_df)
+print(df)
 

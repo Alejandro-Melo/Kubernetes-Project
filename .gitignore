@@ -1,3 +1,4 @@
 .env
 utilities.cpython-310.pyc
 *.parquet
+venv
